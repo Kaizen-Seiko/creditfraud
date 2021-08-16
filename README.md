@@ -10,6 +10,10 @@ Hi, I'm Kaizen Seiko. I'm a QC Automation Engineer with a passionate on data ana
 
 See more : <a href="https://www.linkedin.com/in/ngtanthanh/">My LinkedIn</a>
 
+## Dataset
+
+Data set can be found [here](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 ## Extending and Contributing
 
 I need your help in depth-analyzing and suggest further exploitations
